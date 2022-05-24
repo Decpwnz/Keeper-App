@@ -1,6 +1,9 @@
 import React from "react";
 import App from "./components/App";
 
+//dont forget to update react and react-dom to v18+ in package.json
+//npm install react-dom@latest react@latest
+
 // ReactDOM.render(<App />, document.getElementById("root"));
 
 import { createRoot } from 'react-dom/client';
